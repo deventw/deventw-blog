@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github Pages on DevenTW</title>
-    <link>https://example.com/tags/github-pages/</link>
+    <link>https://deven.tw/tags/github-pages/</link>
     <description>Recent content in Github Pages on DevenTW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jul 2021 21:38:52 +0800</lastBuildDate><atom:link href="https://example.com/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 21:38:52 +0800</lastBuildDate><atom:link href="https://deven.tw/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to connect Github Pages to Custom Domain</title>
-      <link>https://example.com/posts/github-pages-to-custom-domain/</link>
+      <link>https://deven.tw/posts/github-pages-to-custom-domain/</link>
       <pubDate>Fri, 16 Jul 2021 21:38:52 +0800</pubDate>
       
-      <guid>https://example.com/posts/github-pages-to-custom-domain/</guid>
+      <guid>https://deven.tw/posts/github-pages-to-custom-domain/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;ixlib=rb-1.2.1&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1488&amp;amp;q=80&#34; alt=&#34;Github&#34;&gt;&lt;/p&gt;</description>
     </item>
     

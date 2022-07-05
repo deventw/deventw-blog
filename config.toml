@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://deven.tw"
 languageCode = 'en-us'
 title = "DevenTW"
 theme = "yinyang"
@@ -45,15 +45,21 @@ weight = 100
 [permalinks]
     post = "/blog/:title/"
 
+
+
 [params]
 headTitle = "DEVENTW"
 description = "YOLO."
 favicon = "/logo.png"
 mainSections = ["posts"]
+
+# Google Analytics 4
+googleAnalyticsID = "G-YMVW1G7LXS"
+
 postHeaderContent = ""
-# postFooterContent = '<br/><br/><p>Subscribe：<a target="_blank" href="https://mailchi.mp/a1a0d59e7a19/deventw"><b>Mailchimp</b></a></p><br/><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://blog.joway.io/images/cc.png" /></a>'
+# postFooterContent = '<br/><br/><p>Subscribe：<a target="_blank" href="https://mailchi.mp/a1a0d59e7a19/dev"><b>Mailchimp</b></a></p><br/><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://blog.joway.io/images/cc.png" /></a>'
 disqus = "joway" # disqus account name
-extraHead = "<script async src='https://www.googletagmanager.com/gtag/js?id=G-YMVW1G7LXS'></script><script>window.dataLayer = window dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date()); gtag('config', 'G-YMVW1G7LXS'); </script>"
+extraHead = ""
 # extraBody = ''
 # postAds = ''
 lazyImage = true
