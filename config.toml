@@ -58,7 +58,7 @@ googleAnalyticsID = "G-YMVW1G7LXS"
 
 postHeaderContent = ""
 # postFooterContent = '<br/><br/><p>Subscribe：<a target="_blank" href="https://mailchi.mp/a1a0d59e7a19/dev"><b>Mailchimp</b></a></p><br/><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://blog.joway.io/images/cc.png" /></a>'
-disqus = "joway" # disqus account name
+disqus = "deventw" # disqus account name
 extraHead = ""
 # extraBody = ''
 # postAds = ''
